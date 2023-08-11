@@ -75,3 +75,5 @@ Practicing Object-Oriented Programming (OOP) in JavaScript is a great way to imp
     Design classes for quizzes, questions, and user scores. Create methods for starting quizzes, displaying questions, recording user answers, and calculating scores.
 
 Remember that while working on these tasks, it's important to follow best practices for code organization, naming conventions, and documentation. This will help you create maintainable and readable code, which is essential for real-world projects.
+
+
